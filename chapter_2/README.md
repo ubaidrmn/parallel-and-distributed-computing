@@ -1,6 +1,6 @@
-# Chapter 1
+# Chapter 2
 
-Parallel & Distributed Computing Chapter 1 code
+Parallel & Distributed Computing Chapter 2 code
 
 ## 1. Barrier Output
 ![Barrier](screenshots/barrier.png)
