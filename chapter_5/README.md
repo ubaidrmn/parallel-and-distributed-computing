@@ -1,6 +1,6 @@
-# Chapter 4
+# Chapter 5
 
-Parallel & Distributed Computing Chapter 4 code
+Parallel & Distributed Computing Chapter 5 code
 
 ## 1. Task 1 Output
 ![Task 1](screenshots/task_1.png)
